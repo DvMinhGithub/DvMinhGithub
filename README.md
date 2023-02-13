@@ -7,6 +7,10 @@ My name is Minh Dinh. I'm Back-end developer.<br>
 
 ![Minh Dinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vanminh-dev&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/vanminh-dev/Java_web_basic/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanminh-dev&repo=Java_web_basic&theme=dark" />
+</a>
 <a href="https://github.com/vanminh-dev/Template_NodeJS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanminh-dev&repo=Template_NodeJS&theme=radical" />
@@ -20,10 +24,7 @@ My name is Minh Dinh. I'm Back-end developer.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanminh-dev&repo=ThucHanhNodeJS&theme=gruvbox" />
 </a>    
-<a href="https://github.com/vanminh-dev/Coffee_Manager/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanminh-dev&repo=Coffee_Manager&theme=dark" />
-</a>
+
 
 
 
