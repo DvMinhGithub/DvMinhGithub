@@ -15,10 +15,7 @@ My name is Minh Dinh. I'm Back-end developer.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanminh99&repo=ThucHanhNodeJS&theme=gruvbox" />
 </a>  
-<a href="https://github.com/vanminh99/Java_web_basic/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanminh99&repo=Java_web_basic&theme=dark" />
-</a>   
+
 
   
 
