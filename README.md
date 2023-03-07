@@ -7,13 +7,13 @@ My name is Minh Dinh. I'm Back-end developer.<br>
 
 ![Minh Dinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DvMinhGithub&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/DvMinhGithub/Nodejs/">
+<a href="https://github.com/DvMinhGithub/practice_Nodejs/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DvMinhGithub&repo=Nodejs&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DvMinhGithub&repo=practice_Nodejs&theme=radical" />
 </a> 
-<a href="https://github.com/DvMinhGithub/ThucHanhNodeJS/">
+<a href="https://github.com/DvMinhGithub/Nodejs_Mysql/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DvMinhGithub&repo=ThucHanhNodeJS&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DvMinhGithub&repo=Nodejs_Mysql&theme=gruvbox" />
 </a>  
 
 
