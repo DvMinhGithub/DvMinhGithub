@@ -6,9 +6,10 @@ My name is Minh Dinh. I'm Back-end developer.<br>
 
 
 ![Minh Dinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DvMinhGithub&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-<a href="https://github.com/DvMinhGithub/qlSinhVien">
+
+<a href="https://github.com/DvMinhGithub/Student-management-system">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DvMinhGithub&repo=qlSinhVien&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DvMinhGithub&repo=Student-management-system&theme=radical" />
 </a> 
 
 
