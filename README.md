@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is Minh Dinh. I'm Back-end developer.<br>
+My name is Minh Dinh. I'm Front-end developer.<br>
 Thank you for visiting my page!
 
 ### 📫 How to reach me:
