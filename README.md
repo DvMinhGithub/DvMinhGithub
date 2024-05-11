@@ -1,90 +1,40 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
-## 📫 How to reach me: 
+<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Dinh!;" />
+</h1>
 
+<h3 align="center">I'm a Web Developer</h3>
 
+<div align="center">
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+🌍 I'm based in Vietnamese
 
-<a href="https://github.com/uvipen/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
-</a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
-</a>
+🔭 I’m currently working on **Web app**
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
-</a>
+</div>
+<h2></h2>
+ <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,redux,styledcomponents" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,sass,tailwind,vscode,figma,git" />
+</div>
+<h2></h2>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
-</a>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
+<br>
 
-<a href="https://github.com/uvipen/AirGesture/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
-</a>
+<div align="center">
+  <a href="#" title="DvMinhGithub">
+    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvMinhGithub&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="DvMinhGithub">
+    <img align="center" width="485" src="https://github-readme-stats.vercel.app/api?username=DvMinhGithub&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-<a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
-</a>    
-<a href="https://github.com/uvipen/Photomosaic-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
-</a>
-
-<a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
-</a>    
-<a href="https://github.com/uvipen/SSD-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
-</a>    
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
-</a>
-
-<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
-</a>    
-<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
-</a>
-
-<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
-</a>    
-<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I'm+always+down+to+collab+:)">
+</h3>
